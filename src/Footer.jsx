@@ -4,7 +4,8 @@ const Footer = () => {
   return (
     <footer className="bg-rgb(16, 25, 46) text-white py-4 text-center shadow-lg w-full">
       <div className="container mx-auto px-4">
-      <h1 className="text-2xl font-bold text-center">Chatbot</h1>
+        <h1 className="text-2xl font-bold text-center">Chatbot</h1>
+
         <div className="flex justify-center space-x-4 mb-3">
           <a
             href="https://github.com/asharammeena123"
